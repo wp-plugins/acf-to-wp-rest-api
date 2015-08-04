@@ -2,7 +2,7 @@
 Contributors: airesvsg
 Tags: acf, api, rest, wp-api, wp-rest-api, json
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 4.2.3
 Stable tag: 1.0
 License: MIT   
 License URI: http://opensource.org/licenses/MIT
@@ -13,6 +13,7 @@ Puts ACF data into the WP-REST-API (WP-API)
 Puts in answers all fields of ACF.
 
 **Fork me on GitHub**
+
 https://github.com/airesvsg/acf-to-wp-rest-api
 
 **Get ACF data by ID**
