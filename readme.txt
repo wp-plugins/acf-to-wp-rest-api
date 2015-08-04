@@ -13,17 +13,17 @@ Puts ACF data into the WP-REST-API (WP-API)
 Puts in answers all fields of ACF.
 
 **Get ACF data by ID**
-* /wp-json/acf/post/`<ID>`
-* /wp-json/acf/user/`<ID>`
-* /wp-json/acf/term/`<ID>`/`<TAXONOMY>`
-* /wp-json/acf/comment/`<ID>`
-* /wp-json/acf/attachment/`<ID>`
+/wp-json/acf/post/`<ID>`
+/wp-json/acf/user/`<ID>`
+/wp-json/acf/term/`<ID>`/`<TAXONOMY>`
+/wp-json/acf/comment/`<ID>`
+/wp-json/acf/attachment/`<ID>`
 
 **Get Options**
-* /wp-json/acf/`options`
+/wp-json/acf/`options`
 
 **Get Option by Field Name**
-* /wp-json/acf/options/`<FIELD_NAME>`
+/wp-json/acf/options/`<FIELD_NAME>`
 
 **Sample Answer**
 `
