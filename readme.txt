@@ -12,6 +12,9 @@ Puts ACF data into the WP-REST-API (WP-API)
 == Description ==
 Puts in answers all fields of ACF.
 
+**Fork me on GitHub**
+https://github.com/airesvsg/acf-to-wp-rest-api
+
 **Get ACF data by ID**
 
 * /wp-json/acf/post/ID
