@@ -2,7 +2,7 @@
 Contributors: airesvsg
 Tags: acf, api, rest, wp-api, wp-rest-api, json
 Requires at least: 3.0.1
-Tested up to: 4.2.3
+Tested up to: 4.3.1
 Stable tag: 1.0
 License: MIT   
 License URI: http://opensource.org/licenses/MIT
